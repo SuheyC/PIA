@@ -1,0 +1,303 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "rol": "admin",
+      "empleado": "22760731",
+      "correoElectronico": " ",
+      "password": "hola",
+      "nombre": "Yuliana"
+    },
+    {
+      "id": "2",
+      "rol": "admin",
+      "empleado": "22760732",
+      "correoElectronico": " ",
+      "password": "admin123",
+      "nombre": "Maria"
+    },
+    {
+      "id": "3",
+      "rol": "asesor",
+      "empleado": "33445566",
+      "correoElectronico": " ",
+      "password": "123",
+      "nombre": "Carlos Martinez"
+    },
+    {
+      "id": "4",
+      "rol": "asesor",
+      "empleado": "33445577",
+      "correoElectronico": " ",
+      "password": "1234",
+      "nombre": "Laura Quintero"
+    },
+    {
+      "id": "5",
+      "rol": "estudiante",
+      "matricula": "2020123456",
+      "correoElectronico": " ",
+      "password": "123456",
+      "nombre": "Pedro Ramirez"
+    },
+    {
+      "id": "6",
+      "rol": "estudiante",
+      "matricula": "2020654321",
+      "correoElectronico": " ",
+      "password": "abcd1234",
+      "nombre": "Ana Torres"
+    },
+    {
+      "id": "7",
+      "rol": "estudiante",
+      "matricula": "22760731",
+      "correoElectronico": " ",
+      "password": "hola",
+      "nombre": "Sergio"
+    },
+    {
+      "id": "5821",
+      "rol": "estudiante",
+      "matricula": "22760732",
+      "correoElectronico": " ",
+      "password": "hola",
+      "nombre": "brito"
+    },
+    {
+      "id": "2a74",
+      "rol": "estudiante",
+      "matricula": "12345",
+      "correoElectronico": " ",
+      "password": "12345",
+      "nombre": "said"
+    },
+    {
+      "id": "2fd1",
+      "rol": "estudiante",
+      "matricula": "22760579",
+      "password": "Hola1234",
+      "nombre": "Sinai Cabrera"
+    },
+    {
+      "id": "8ede",
+      "rol": "estudiante",
+      "matricula": "123456",
+      "password": "12345",
+      "nombre": "Daniel Said"
+    },
+    {
+      "id": "607b",
+      "rol": "estudiante",
+      "matricula": "1223",
+      "password": "hola",
+      "nombre": "yuliana"
+    }
+  ],
+  "asesorias": [
+    {
+      "id": "1",
+      "materia": "Matemáticas Avanzadas",
+      "asesor": "Ing. Pedro López",
+      "fecha": "2025-05-02",
+      "hora": "10:11 AM",
+      "estado": "Confirmada"
+    },
+    {
+      "id": "2",
+      "materia": "Programación Web",
+      "asesor": "Mtra. Laura García",
+      "fecha": "2025-05-04",
+      "hora": "3:00 PM",
+      "estado": "Pendiente"
+    },
+    {
+      "id": "3",
+      "materia": "Bases de Datos",
+      "asesor": "Dr. Juan Pérez",
+      "fecha": "2025-05-06",
+      "hora": "1:00 PM",
+      "estado": "Cancelada"
+    },
+    {
+      "id": "1749201348091",
+      "materia": "Matemáticas",
+      "tema": "Álgebra",
+      "asesor": "Mtro. Ramírez",
+      "descripcion": "El cielo se cae JAJA",
+      "fecha": "2025-06-06",
+      "hora": "15:00",
+      "estado": "Pendiente"
+    },
+    {
+      "id": "1749201618471",
+      "materia": "Química",
+      "tema": "Química orgánica",
+      "asesor": "Mtro. Franco",
+      "descripcion": "El cielo se cae JAJA",
+      "fecha": "2025-06-16",
+      "hora": "17:20",
+      "estado": "Pendiente"
+    },
+    {
+      "id": "1749207875985",
+      "materia": "Química",
+      "tema": "Química inorgánica",
+      "asesor": "Mtra. Moreno",
+      "descripcion": "holA",
+      "fecha": "2025-06-15",
+      "hora": "18:55",
+      "estado": "Pendiente"
+    },
+    {
+      "id": 1749223225342,
+      "materia": "Historia",
+      "tema": "Historia mundial",
+      "asesor": "Mtra. Ortega",
+      "descripcion": "historia",
+      "fecha": "2025-06-07",
+      "hora": "11:20",
+      "estado": "Pendiente"
+    },
+    {
+      "id": 1749224070734,
+      "materia": "Química",
+      "tema": "Química inorgánica",
+      "asesor": "Mtra. Moreno",
+      "descripcion": "holA",
+      "fecha": "2025-06-21",
+      "hora": "00:34",
+      "estado": "Pendiente"
+    },
+    {
+      "id": 1749227799696,
+      "materia": "Matemáticas",
+      "tema": "Álgebra",
+      "asesor": "Mtro. Ramírez",
+      "descripcion": "jjjjj",
+      "fecha": "2025-06-15",
+      "hora": "00:36",
+      "estado": "Pendiente"
+    }
+  ],
+  "solicitudes": [
+    {
+      "id": "1749201348091",
+      "materia": "Matemáticas",
+      "tema": "Álgebra",
+      "asesor": "Mtro. Ramírez",
+      "descripcion": "El cielo se cae JAJA",
+      "fecha": "2025-06-06",
+      "hora": "15:00",
+      "estado": "Pendiente"
+    },
+    {
+      "id": "1749201618471",
+      "materia": "Química",
+      "tema": "Química orgánica",
+      "asesor": "Mtro. Franco",
+      "descripcion": "El cielo se cae JAJA",
+      "fecha": "2025-06-16",
+      "hora": "17:20",
+      "estado": "Pendiente"
+    },
+    {
+      "id": "1749207875985",
+      "materia": "Química",
+      "tema": "Química inorgánica",
+      "asesor": "Mtra. Moreno",
+      "descripcion": "holA",
+      "fecha": "2025-06-15",
+      "hora": "18:55",
+      "estado": "Pendiente"
+    },
+    {
+      "id": 1749223225342,
+      "materia": "Historia",
+      "tema": "Historia mundial",
+      "asesor": "Mtra. Ortega",
+      "descripcion": "historia",
+      "fecha": "2025-06-07",
+      "hora": "11:20",
+      "estado": "Pendiente"
+    },
+    {
+      "id": 1749224070734,
+      "materia": "Química",
+      "tema": "Química inorgánica",
+      "asesor": "Mtra. Moreno",
+      "descripcion": "holA",
+      "fecha": "2025-06-21",
+      "hora": "00:34",
+      "estado": "Pendiente"
+    },
+    {
+      "id": 1749227799696,
+      "materia": "Matemáticas",
+      "tema": "Álgebra",
+      "asesor": "Mtro. Ramírez",
+      "descripcion": "jjjjj",
+      "fecha": "2025-06-15",
+      "hora": "00:36",
+      "estado": "Pendiente"
+    }
+  ],
+  "asesoriasImpartidasEstudiante": [
+    {
+      "id": "1",
+      "materia": "Matemáticas Avanzadas",
+      "estudiante": "Ana Martínez",
+      "fecha": "2025-05-01",
+      "hora": "10:00 AM",
+      "estado": "Concluida"
+    },
+    {
+      "id": "2",
+      "materia": "Programación Web",
+      "estudiante": "Luis Hernández",
+      "fecha": "2025-05-03",
+      "hora": "3:00 PM",
+      "estado": "Pendiente de Calificar"
+    },
+    {
+      "id": "3",
+      "materia": "Calculo Diferencial",
+      "estudiante": "Carlos martinez",
+      "fecha": "2025-05-05",
+      "hora": "11:00 AM",
+      "estado": "Concluida"
+    }
+  ],
+  "calificacionAseEstudiante": [
+    {
+      "id": "1",
+      "asesoriaId": 101,
+      "estudiante": "Juan Pérez",
+      "asistencia": 5,
+      "puntualidad": 4,
+      "conocimiento": 4,
+      "disposicion": 5,
+      "profesionalismo": 4
+    }
+  ],
+  "notificacionesAsesor": [
+    {
+      "titulo": "Nueva solicitud de asesoría",
+      "descripcion": "Se ha recibido una nueva solicitud de asesoría de un estudiante.",
+      "fecha": "2025-06-06 ",
+      "id": "7ba3"
+    },
+    {
+      "titulo": "Nuevo informe disponible",
+      "descripcion": "Un nuevo informe de desempeño de los asesores está disponible.",
+      "fecha": "2025-06-06 ",
+      "id": "077a"
+    },
+    {
+      "titulo": "Nueva mensaje de said",
+      "descripcion": "Donde nos vemos?",
+      "fecha": "2025-06-06 ",
+      "id": "08fc"
+    }
+  ]
+}

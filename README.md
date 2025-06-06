@@ -16,10 +16,6 @@ Antes de instalar el sistema, asegúrate de contar con lo siguiente:
 - [Node.js](https://nodejs.org/) con npm instalados.  
 - [Visual Studio Code](https://code.visualstudio.com/) como editor (opcional).
 - [Vue.js](https://vuejs.org/guide/quick-start.html) como Framework.
-- [Google Cloud](https://console.cloud.google.com/apis/library/browse?inv=1&invt=Abywwg&project=asesorias-459817) cuenta de Cloud con Credenciales y APIs habilitados. Deberas obtener IDs de clientes secretos con OAuth 2.0 y tener claves de API. Tambien deberas agregar permisos sensibles.
-- Conexión a internet para uso de APIs de Google (Google Calendar).
-- Conexión a internet para uso de Google Forms.
-- Cuenta de Google para iniciar sesion.
 
 ---
 
